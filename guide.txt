@@ -1,0 +1,7 @@
+-mongoose tự đặt tên collection theo tên model được viết thường hết và dạng số nhiều
+
+-mongoose sẽ tự động chuyển id thành objectId
+
+-populate(...) trả về tất cả thông tin thay vì chỉ mình ID khi dùng ref
+
+__id nó luôn select, chỉ k select khi select(-__id)
